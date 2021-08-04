@@ -1,5 +1,5 @@
 meu projeto em texto no git
 
-segunda tebtativa agora vaiiii
+segunda tentativa agora vaiiii
 
 to com sono
